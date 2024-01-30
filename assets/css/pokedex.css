@@ -79,7 +79,6 @@
 }
 
 .pokemon {
-    background-color: #77c850;
     display: flex;
     flex-direction: column;
     margin: .5rem;
@@ -115,6 +114,7 @@
 
 .pokemon .detail .types .type {
     color: #fff;
+    background-color: hsla(0, 0%, 0%, 0.144);
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
