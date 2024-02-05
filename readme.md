@@ -1,6 +1,6 @@
 # Pokédex
 
-Este é um projeto de uma Pokédex simples desenvolvida com HTML, CSS e JavaScript durante a **Formação JavaScript Developer** da DIO - Digital Innovation One. Foi utilizada a API da *PokeApi*.
+Este é um projeto de uma Pokédex simples desenvolvida com HTML, CSS e JavaScript durante a **Formação JavaScript Developer** da DIO - Digital Innovation One. Foi utilizado a API da *PokeApi*.
 
 ## Visão Geral
 
